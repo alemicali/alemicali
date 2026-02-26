@@ -14,6 +14,7 @@
 | Project | What it does |
 |---------|-------------|
 | [waytunnel](https://github.com/alemicali/waytunnel) | Dev tunnel with HTTPS + QR code for mobile testing & PWA dev |
+| [agentstash](https://github.com/alemicali/agentstash) | Encrypted incremental backups for AI coding agents |
 | [clawstash](https://github.com/alemicali/clawstash) | Encrypted incremental backups for OpenClaw |
 
 ---
